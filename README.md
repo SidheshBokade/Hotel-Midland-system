@@ -13,3 +13,4 @@ Also anyone can search for a person's room he/she is staying in or details of th
 Modification & Deletion of customer's record can be done. Bill will be made on the basis of category of rooms and no of days
 a person stayed in the room.
 "# Hotel-Midland-system" 
+"# hotel-midland" 
